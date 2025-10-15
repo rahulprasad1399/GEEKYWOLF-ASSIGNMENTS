@@ -1,0 +1,6 @@
+START
+FOR I=1 TO 4
+    FOR J=0 TO I
+        DISPLAY *
+    NEW LINE
+END
