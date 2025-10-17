@@ -1,0 +1,14 @@
+C:\Users\rahul.prasad\source\repos\Day5\Day5\bin\Debug\net8.0\LibrarySystem.exe
+C:\Users\rahul.prasad\source\repos\Day5\Day5\bin\Debug\net8.0\LibrarySystem.deps.json
+C:\Users\rahul.prasad\source\repos\Day5\Day5\bin\Debug\net8.0\LibrarySystem.runtimeconfig.json
+C:\Users\rahul.prasad\source\repos\Day5\Day5\bin\Debug\net8.0\LibrarySystem.dll
+C:\Users\rahul.prasad\source\repos\Day5\Day5\bin\Debug\net8.0\LibrarySystem.pdb
+C:\Users\rahul.prasad\source\repos\Day5\Day5\obj\Debug\net8.0\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul.prasad\source\repos\Day5\Day5\obj\Debug\net8.0\LibrarySystem.AssemblyInfoInputs.cache
+C:\Users\rahul.prasad\source\repos\Day5\Day5\obj\Debug\net8.0\LibrarySystem.AssemblyInfo.cs
+C:\Users\rahul.prasad\source\repos\Day5\Day5\obj\Debug\net8.0\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\rahul.prasad\source\repos\Day5\Day5\obj\Debug\net8.0\LibrarySystem.dll
+C:\Users\rahul.prasad\source\repos\Day5\Day5\obj\Debug\net8.0\refint\LibrarySystem.dll
+C:\Users\rahul.prasad\source\repos\Day5\Day5\obj\Debug\net8.0\LibrarySystem.pdb
+C:\Users\rahul.prasad\source\repos\Day5\Day5\obj\Debug\net8.0\LibrarySystem.genruntimeconfig.cache
+C:\Users\rahul.prasad\source\repos\Day5\Day5\obj\Debug\net8.0\ref\LibrarySystem.dll
