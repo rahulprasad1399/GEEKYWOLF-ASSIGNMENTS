@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rahul.prasad\\source\\repos\\Multi_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E917DAAD-3093-4AD5-B21C-AA566E78DE3E}|UI.ConsoleApp\\UI.ConsoleApp.csproj|c:\\users\\rahul.prasad\\source\\repos\\multi_project\\ui.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E917DAAD-3093-4AD5-B21C-AA566E78DE3E}|UI.ConsoleApp\\UI.ConsoleApp.csproj|solutionrelative:ui.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39788AED-F56B-439F-9544-BD778DFFE6B0}|DataAccess\\DataAccess.csproj|c:\\users\\rahul.prasad\\source\\repos\\multi_project\\dataaccess\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39788AED-F56B-439F-9544-BD778DFFE6B0}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854AD6AE-9830-49CB-ADBE-1773ADDE97E8}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\rahul.prasad\\source\\repos\\multi_project\\businesslogic\\businesslogic.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{854AD6AE-9830-49CB-ADBE-1773ADDE97E8}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\businesslogic.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854AD6AE-9830-49CB-ADBE-1773ADDE97E8}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\rahul.prasad\\source\\repos\\multi_project\\businesslogic\\businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{854AD6AE-9830-49CB-ADBE-1773ADDE97E8}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39788AED-F56B-439F-9544-BD778DFFE6B0}|DataAccess\\DataAccess.csproj|c:\\users\\rahul.prasad\\source\\repos\\multi_project\\dataaccess\\dataaccess.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{39788AED-F56B-439F-9544-BD778DFFE6B0}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E917DAAD-3093-4AD5-B21C-AA566E78DE3E}|UI.ConsoleApp\\UI.ConsoleApp.csproj|c:\\users\\rahul.prasad\\source\\repos\\multi_project\\ui.consoleapp\\ui.consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E917DAAD-3093-4AD5-B21C-AA566E78DE3E}|UI.ConsoleApp\\UI.ConsoleApp.csproj|solutionrelative:ui.consoleapp\\ui.consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854AD6AE-9830-49CB-ADBE-1773ADDE97E8}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\rahul.prasad\\source\\repos\\multi_project\\businesslogic\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854AD6AE-9830-49CB-ADBE-1773ADDE97E8}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusinessLogic",
+              "DocumentMoniker": "C:\\Users\\rahul.prasad\\source\\repos\\Multi_Project\\BusinessLogic\\BusinessLogic.csproj",
+              "RelativeDocumentMoniker": "BusinessLogic\\BusinessLogic.csproj",
+              "ToolTip": "C:\\Users\\rahul.prasad\\source\\repos\\Multi_Project\\BusinessLogic\\BusinessLogic.csproj",
+              "RelativeToolTip": "BusinessLogic\\BusinessLogic.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-21T05:57:25.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataAccess",
+              "DocumentMoniker": "C:\\Users\\rahul.prasad\\source\\repos\\Multi_Project\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "C:\\Users\\rahul.prasad\\source\\repos\\Multi_Project\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-21T05:57:17.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Business.cs",
+              "DocumentMoniker": "C:\\Users\\rahul.prasad\\source\\repos\\Multi_Project\\BusinessLogic\\Business.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Business.cs",
+              "ToolTip": "C:\\Users\\rahul.prasad\\source\\repos\\Multi_Project\\BusinessLogic\\Business.cs",
+              "RelativeToolTip": "BusinessLogic\\Business.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T05:47:21.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BusinessLogic",
+              "DocumentMoniker": "C:\\Users\\rahul.prasad\\source\\repos\\Multi_Project\\BusinessLogic\\BusinessLogic.csproj",
+              "RelativeDocumentMoniker": "BusinessLogic\\BusinessLogic.csproj",
+              "ToolTip": "C:\\Users\\rahul.prasad\\source\\repos\\Multi_Project\\BusinessLogic\\BusinessLogic.csproj",
+              "RelativeToolTip": "BusinessLogic\\BusinessLogic.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-21T05:36:19.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UI.ConsoleApp",
+              "DocumentMoniker": "C:\\Users\\rahul.prasad\\source\\repos\\Multi_Project\\UI.ConsoleApp\\UI.ConsoleApp.csproj",
+              "RelativeDocumentMoniker": "UI.ConsoleApp\\UI.ConsoleApp.csproj",
+              "ToolTip": "C:\\Users\\rahul.prasad\\source\\repos\\Multi_Project\\UI.ConsoleApp\\UI.ConsoleApp.csproj",
+              "RelativeToolTip": "UI.ConsoleApp\\UI.ConsoleApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-21T05:35:31.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rahul.prasad\\source\\repos\\Multi_Project\\UI.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "UI.ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\rahul.prasad\\source\\repos\\Multi_Project\\UI.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "UI.ConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T05:08:20.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\rahul.prasad\\source\\repos\\Multi_Project\\DataAccess\\Database.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Database.cs",
+              "ToolTip": "C:\\Users\\rahul.prasad\\source\\repos\\Multi_Project\\DataAccess\\Database.cs",
+              "RelativeToolTip": "DataAccess\\Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T04:19:31.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

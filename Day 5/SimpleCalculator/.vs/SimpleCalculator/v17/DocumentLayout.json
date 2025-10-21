@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rahul.prasad\\source\\repos\\SimpleCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51FCF026-2F64-4EBD-A071-4A888CD96ECD}|SimpleCalculator\\SimpleCalculator.csproj|c:\\users\\rahul.prasad\\source\\repos\\simplecalculator\\simplecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FCF026-2F64-4EBD-A071-4A888CD96ECD}|SimpleCalculator\\SimpleCalculator.csproj|solutionrelative:simplecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rahul.prasad\\source\\repos\\SimpleCalculator\\SimpleCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\rahul.prasad\\source\\repos\\SimpleCalculator\\SimpleCalculator\\Program.cs",
+              "RelativeToolTip": "SimpleCalculator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T07:56:22.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rahul.prasad\\source\\repos\\TemperatureConverterProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54591B48-2A68-4E81-ACF9-F4916C05B5A3}|TemperatureConverterProject\\TemperatureConverter.csproj|c:\\users\\rahul.prasad\\source\\repos\\temperatureconverterproject\\temperatureconverterproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54591B48-2A68-4E81-ACF9-F4916C05B5A3}|TemperatureConverterProject\\TemperatureConverter.csproj|solutionrelative:temperatureconverterproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532FB317-4192-46E0-8A05-187CF509E0D8}|TemperatureConsoleApp\\TemperatureConsoleApp.csproj|c:\\users\\rahul.prasad\\source\\repos\\temperatureconverterproject\\temperatureconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532FB317-4192-46E0-8A05-187CF509E0D8}|TemperatureConsoleApp\\TemperatureConsoleApp.csproj|solutionrelative:temperatureconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54591B48-2A68-4E81-ACF9-F4916C05B5A3}|TemperatureConverterProject\\TemperatureConverter.csproj|c:\\users\\rahul.prasad\\source\\repos\\temperatureconverterproject\\temperatureconverterproject\\temperatureconverter.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{54591B48-2A68-4E81-ACF9-F4916C05B5A3}|TemperatureConverterProject\\TemperatureConverter.csproj|solutionrelative:temperatureconverterproject\\temperatureconverter.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TemperatureConverter",
+              "DocumentMoniker": "C:\\Users\\rahul.prasad\\source\\repos\\TemperatureConverterProject\\TemperatureConverterProject\\TemperatureConverter.csproj",
+              "RelativeDocumentMoniker": "TemperatureConverterProject\\TemperatureConverter.csproj",
+              "ToolTip": "C:\\Users\\rahul.prasad\\source\\repos\\TemperatureConverterProject\\TemperatureConverterProject\\TemperatureConverter.csproj",
+              "RelativeToolTip": "TemperatureConverterProject\\TemperatureConverter.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-21T06:51:35.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rahul.prasad\\source\\repos\\TemperatureConverterProject\\TemperatureConverterProject\\Program.cs",
+              "RelativeDocumentMoniker": "TemperatureConverterProject\\Program.cs",
+              "ToolTip": "C:\\Users\\rahul.prasad\\source\\repos\\TemperatureConverterProject\\TemperatureConverterProject\\Program.cs",
+              "RelativeToolTip": "TemperatureConverterProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T06:48:45.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rahul.prasad\\source\\repos\\TemperatureConverterProject\\TemperatureConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "TemperatureConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\rahul.prasad\\source\\repos\\TemperatureConverterProject\\TemperatureConsoleApp\\Program.cs",
+              "RelativeToolTip": "TemperatureConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T06:43:53.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
