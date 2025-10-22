@@ -210,3 +210,35 @@
 
 70) Write a query to convert separate year, month, and day columns from a 'Dates' table into a single DATE column.
 -> select DATEFROMPARTS(year, month, day) from dates;
+
+
+
+1) Find the total number of customers in each country.
+-> select country, count(*) as TotalNumberOfCustomers from customers group by country;
+
+2) Calculate the average unit price of products in each category.
+-> select category, AVG(unitprice) from products group by category;
+
+3) Find the maximum and minimum salary in each department.
+-> select department, min(salary) as MinSalary, max(salary) as MaxSalary from Employees group by department;
+
+4) Count the total number of products supplied by each supplier.
+-> select supplier, count(*) as NumOfProducts from products group by supplier;
+
+5) Calculate the total value of inventory (UnitsInStock × UnitPrice) for each product category.
+-> select category, sum(UnitPrice*UnitsInStock) as TotalInventoryValue from products group by category;
+
+6) Find all product categories that have more than 2 products.
+-> select category, count(*) as NumOfProducts from products group by category having count(*)>2;
+
+7) List departments where the average salary is greater than $60,000.
+-> select avg(salary) as AvgSalary from employees group by department having avg(salary)>60000;
+
+8) Show product categories where the average unit price is between $100 and $500.
+-> select category, avg(unitprice) from products group by category having avg(unitprice)>100 and avg(unitprice)<500;
+
+9) Find suppliers who supply products worth more than $10,000 in total inventory value.
+-> select supplier, sum(unitprice*UnitsInStock) as InventoryValue from products group by supplier having sum(unitprice*UnitsInStock) > 10000;
+
+10) List countries that have more than 1 customer and show the customer count.
+-> select country, count(*) as customerCount from customers group by country having count(*)>1;
