@@ -1,0 +1,14 @@
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ListOfCustomObjects\bin\Debug\net8.0\ListOfCustomObjects.exe
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ListOfCustomObjects\bin\Debug\net8.0\ListOfCustomObjects.deps.json
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ListOfCustomObjects\bin\Debug\net8.0\ListOfCustomObjects.runtimeconfig.json
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ListOfCustomObjects\bin\Debug\net8.0\ListOfCustomObjects.dll
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ListOfCustomObjects\bin\Debug\net8.0\ListOfCustomObjects.pdb
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ListOfCustomObjects\obj\Debug\net8.0\ListOfCustomObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ListOfCustomObjects\obj\Debug\net8.0\ListOfCustomObjects.AssemblyInfoInputs.cache
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ListOfCustomObjects\obj\Debug\net8.0\ListOfCustomObjects.AssemblyInfo.cs
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ListOfCustomObjects\obj\Debug\net8.0\ListOfCustomObjects.csproj.CoreCompileInputs.cache
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ListOfCustomObjects\obj\Debug\net8.0\ListOfCustomObjects.dll
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ListOfCustomObjects\obj\Debug\net8.0\refint\ListOfCustomObjects.dll
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ListOfCustomObjects\obj\Debug\net8.0\ListOfCustomObjects.pdb
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ListOfCustomObjects\obj\Debug\net8.0\ListOfCustomObjects.genruntimeconfig.cache
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ListOfCustomObjects\obj\Debug\net8.0\ref\ListOfCustomObjects.dll
