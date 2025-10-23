@@ -1,0 +1,14 @@
+C:\Users\rahul.prasad\source\repos\VirtualAssignments\Vechile\bin\Debug\net8.0\Vechile.exe
+C:\Users\rahul.prasad\source\repos\VirtualAssignments\Vechile\bin\Debug\net8.0\Vechile.deps.json
+C:\Users\rahul.prasad\source\repos\VirtualAssignments\Vechile\bin\Debug\net8.0\Vechile.runtimeconfig.json
+C:\Users\rahul.prasad\source\repos\VirtualAssignments\Vechile\bin\Debug\net8.0\Vechile.dll
+C:\Users\rahul.prasad\source\repos\VirtualAssignments\Vechile\bin\Debug\net8.0\Vechile.pdb
+C:\Users\rahul.prasad\source\repos\VirtualAssignments\Vechile\obj\Debug\net8.0\Vechile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul.prasad\source\repos\VirtualAssignments\Vechile\obj\Debug\net8.0\Vechile.AssemblyInfoInputs.cache
+C:\Users\rahul.prasad\source\repos\VirtualAssignments\Vechile\obj\Debug\net8.0\Vechile.AssemblyInfo.cs
+C:\Users\rahul.prasad\source\repos\VirtualAssignments\Vechile\obj\Debug\net8.0\Vechile.csproj.CoreCompileInputs.cache
+C:\Users\rahul.prasad\source\repos\VirtualAssignments\Vechile\obj\Debug\net8.0\Vechile.dll
+C:\Users\rahul.prasad\source\repos\VirtualAssignments\Vechile\obj\Debug\net8.0\refint\Vechile.dll
+C:\Users\rahul.prasad\source\repos\VirtualAssignments\Vechile\obj\Debug\net8.0\Vechile.pdb
+C:\Users\rahul.prasad\source\repos\VirtualAssignments\Vechile\obj\Debug\net8.0\Vechile.genruntimeconfig.cache
+C:\Users\rahul.prasad\source\repos\VirtualAssignments\Vechile\obj\Debug\net8.0\ref\Vechile.dll
