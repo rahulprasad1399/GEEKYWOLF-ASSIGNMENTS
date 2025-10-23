@@ -1,0 +1,14 @@
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ArrayListOperations\bin\Debug\net8.0\ArrayListOperations.exe
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ArrayListOperations\bin\Debug\net8.0\ArrayListOperations.deps.json
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ArrayListOperations\bin\Debug\net8.0\ArrayListOperations.runtimeconfig.json
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ArrayListOperations\bin\Debug\net8.0\ArrayListOperations.dll
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ArrayListOperations\bin\Debug\net8.0\ArrayListOperations.pdb
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ArrayListOperations\obj\Debug\net8.0\ArrayListOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ArrayListOperations\obj\Debug\net8.0\ArrayListOperations.AssemblyInfoInputs.cache
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ArrayListOperations\obj\Debug\net8.0\ArrayListOperations.AssemblyInfo.cs
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ArrayListOperations\obj\Debug\net8.0\ArrayListOperations.csproj.CoreCompileInputs.cache
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ArrayListOperations\obj\Debug\net8.0\ArrayListOperations.dll
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ArrayListOperations\obj\Debug\net8.0\refint\ArrayListOperations.dll
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ArrayListOperations\obj\Debug\net8.0\ArrayListOperations.pdb
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ArrayListOperations\obj\Debug\net8.0\ArrayListOperations.genruntimeconfig.cache
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ArrayListOperations\obj\Debug\net8.0\ref\ArrayListOperations.dll

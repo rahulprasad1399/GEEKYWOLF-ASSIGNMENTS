@@ -1,0 +1,14 @@
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\UsingGenericWithList\bin\Debug\net8.0\UsingGenericWithList.exe
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\UsingGenericWithList\bin\Debug\net8.0\UsingGenericWithList.deps.json
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\UsingGenericWithList\bin\Debug\net8.0\UsingGenericWithList.runtimeconfig.json
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\UsingGenericWithList\bin\Debug\net8.0\UsingGenericWithList.dll
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\UsingGenericWithList\bin\Debug\net8.0\UsingGenericWithList.pdb
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\UsingGenericWithList\obj\Debug\net8.0\UsingGenericWithList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\UsingGenericWithList\obj\Debug\net8.0\UsingGenericWithList.AssemblyInfoInputs.cache
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\UsingGenericWithList\obj\Debug\net8.0\UsingGenericWithList.AssemblyInfo.cs
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\UsingGenericWithList\obj\Debug\net8.0\UsingGenericWithList.csproj.CoreCompileInputs.cache
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\UsingGenericWithList\obj\Debug\net8.0\UsingGenericWithList.dll
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\UsingGenericWithList\obj\Debug\net8.0\refint\UsingGenericWithList.dll
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\UsingGenericWithList\obj\Debug\net8.0\UsingGenericWithList.pdb
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\UsingGenericWithList\obj\Debug\net8.0\UsingGenericWithList.genruntimeconfig.cache
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\UsingGenericWithList\obj\Debug\net8.0\ref\UsingGenericWithList.dll

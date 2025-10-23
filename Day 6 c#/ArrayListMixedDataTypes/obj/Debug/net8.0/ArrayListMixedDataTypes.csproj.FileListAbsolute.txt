@@ -1,0 +1,14 @@
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ArrayListMixedDataTypes\bin\Debug\net8.0\ArrayListMixedDataTypes.exe
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ArrayListMixedDataTypes\bin\Debug\net8.0\ArrayListMixedDataTypes.deps.json
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ArrayListMixedDataTypes\bin\Debug\net8.0\ArrayListMixedDataTypes.runtimeconfig.json
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ArrayListMixedDataTypes\bin\Debug\net8.0\ArrayListMixedDataTypes.dll
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ArrayListMixedDataTypes\bin\Debug\net8.0\ArrayListMixedDataTypes.pdb
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ArrayListMixedDataTypes\obj\Debug\net8.0\ArrayListMixedDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ArrayListMixedDataTypes\obj\Debug\net8.0\ArrayListMixedDataTypes.AssemblyInfoInputs.cache
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ArrayListMixedDataTypes\obj\Debug\net8.0\ArrayListMixedDataTypes.AssemblyInfo.cs
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ArrayListMixedDataTypes\obj\Debug\net8.0\ArrayListMixedDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ArrayListMixedDataTypes\obj\Debug\net8.0\ArrayListMixedDataTypes.dll
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ArrayListMixedDataTypes\obj\Debug\net8.0\refint\ArrayListMixedDataTypes.dll
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ArrayListMixedDataTypes\obj\Debug\net8.0\ArrayListMixedDataTypes.pdb
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ArrayListMixedDataTypes\obj\Debug\net8.0\ArrayListMixedDataTypes.genruntimeconfig.cache
+C:\Users\rahul.prasad\source\repos\ArrayListOperations\ArrayListMixedDataTypes\obj\Debug\net8.0\ref\ArrayListMixedDataTypes.dll
