@@ -53,7 +53,9 @@ class Program
 
         AccountOperations accountOperations = new AccountOperations();
         //accountOperations.AddCustomer("Harry","harry@gmail.com","567", new DateTime(2022, 4, 2), "327 la", new DateTime(2011, 3, 6));
-        accountOperations.UpdateAddress(6, "xyz");
+        //accountOperations.UpdateAddress(6, "xyz");
+        //accountOperations.DeleteCustomer(8);
+        accountOperations.GetAllCustomers();
 
     }
 }

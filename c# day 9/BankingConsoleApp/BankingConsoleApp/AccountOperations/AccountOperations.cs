@@ -56,5 +56,37 @@ namespace BankingConsoleApp.AccountOperations
                 return "Failed to update customer address";
             }
         }
+
+        public string DeleteCustomer(int id)
+        {
+            try
+            {
+                BankingAppDbContext context = new BankingAppDbContext();
+                var existingCustomer = context.Customers.FirstOrDefault(customer => customer.Id == id);
+                context.Customers.Remove(existingCustomer);
+                context.SaveChanges();
+                return "Deleted customer successfully";
+            }catch (Exception ex) { 
+                Console.WriteLine(ex.Message);
+                return $"${ex.Message}";
+            }
+
+        }
+
+        public void GetAllCustomers()
+        {
+            try
+            {
+                BankingAppDbContext context = new BankingAppDbContext();
+                var customers = context.Customers.ToList(); 
+                foreach (var customer in customers)
+                {
+                    Console.WriteLine($"{customer.Id} {customer.Name} {customer.Email}");
+                }
+            } catch (Exception ex)
+            {
+                Console.WriteLine (ex.Message);
+            }
+        }
     }
 }
