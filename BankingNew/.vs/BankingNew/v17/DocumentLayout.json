@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rahul.prasad\\source\\repos\\BankingNew\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C22A8F-48D1-4482-8821-B68E4BBC5E2B}|BankingNew\\BankingNew.csproj|c:\\users\\rahul.prasad\\source\\repos\\bankingnew\\bankingnew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C22A8F-48D1-4482-8821-B68E4BBC5E2B}|BankingNew\\BankingNew.csproj|solutionrelative:bankingnew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C22A8F-48D1-4482-8821-B68E4BBC5E2B}|BankingNew\\BankingNew.csproj|c:\\users\\rahul.prasad\\source\\repos\\bankingnew\\bankingnew\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C22A8F-48D1-4482-8821-B68E4BBC5E2B}|BankingNew\\BankingNew.csproj|solutionrelative:bankingnew\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C22A8F-48D1-4482-8821-B68E4BBC5E2B}|BankingNew\\BankingNew.csproj|c:\\users\\rahul.prasad\\source\\repos\\bankingnew\\bankingnew\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C22A8F-48D1-4482-8821-B68E4BBC5E2B}|BankingNew\\BankingNew.csproj|solutionrelative:bankingnew\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C22A8F-48D1-4482-8821-B68E4BBC5E2B}|BankingNew\\BankingNew.csproj|c:\\users\\rahul.prasad\\source\\repos\\bankingnew\\bankingnew\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C22A8F-48D1-4482-8821-B68E4BBC5E2B}|BankingNew\\BankingNew.csproj|solutionrelative:bankingnew\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C22A8F-48D1-4482-8821-B68E4BBC5E2B}|BankingNew\\BankingNew.csproj|c:\\users\\rahul.prasad\\source\\repos\\bankingnew\\bankingnew\\data\\bankingappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C22A8F-48D1-4482-8821-B68E4BBC5E2B}|BankingNew\\BankingNew.csproj|solutionrelative:bankingnew\\data\\bankingappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C22A8F-48D1-4482-8821-B68E4BBC5E2B}|BankingNew\\BankingNew.csproj|c:\\users\\rahul.prasad\\source\\repos\\bankingnew\\bankingnew\\bankingnew.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4C22A8F-48D1-4482-8821-B68E4BBC5E2B}|BankingNew\\BankingNew.csproj|solutionrelative:bankingnew\\bankingnew.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C22A8F-48D1-4482-8821-B68E4BBC5E2B}|BankingNew\\BankingNew.csproj|c:\\users\\rahul.prasad\\source\\repos\\bankingnew\\bankingnew\\migrations\\20251028130739_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C22A8F-48D1-4482-8821-B68E4BBC5E2B}|BankingNew\\BankingNew.csproj|solutionrelative:bankingnew\\migrations\\20251028130739_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C22A8F-48D1-4482-8821-B68E4BBC5E2B}|BankingNew\\BankingNew.csproj|c:\\users\\rahul.prasad\\source\\repos\\bankingnew\\bankingnew\\migrations\\20251028115027_addedconstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C22A8F-48D1-4482-8821-B68E4BBC5E2B}|BankingNew\\BankingNew.csproj|solutionrelative:bankingnew\\migrations\\20251028115027_addedconstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C22A8F-48D1-4482-8821-B68E4BBC5E2B}|BankingNew\\BankingNew.csproj|c:\\users\\rahul.prasad\\source\\repos\\bankingnew\\bankingnew\\migrations\\20251028125115_relations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C22A8F-48D1-4482-8821-B68E4BBC5E2B}|BankingNew\\BankingNew.csproj|solutionrelative:bankingnew\\migrations\\20251028125115_relations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C22A8F-48D1-4482-8821-B68E4BBC5E2B}|BankingNew\\BankingNew.csproj|c:\\users\\rahul.prasad\\source\\repos\\bankingnew\\bankingnew\\migrations\\20251028111541_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C22A8F-48D1-4482-8821-B68E4BBC5E2B}|BankingNew\\BankingNew.csproj|solutionrelative:bankingnew\\migrations\\20251028111541_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20251028115027_addedConstraints.cs",
+              "DocumentMoniker": "C:\\Users\\rahul.prasad\\source\\repos\\BankingNew\\BankingNew\\Migrations\\20251028115027_addedConstraints.cs",
+              "RelativeDocumentMoniker": "BankingNew\\Migrations\\20251028115027_addedConstraints.cs",
+              "ToolTip": "C:\\Users\\rahul.prasad\\source\\repos\\BankingNew\\BankingNew\\Migrations\\20251028115027_addedConstraints.cs",
+              "RelativeToolTip": "BankingNew\\Migrations\\20251028115027_addedConstraints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:50:27.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankingAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rahul.prasad\\source\\repos\\BankingNew\\BankingNew\\Data\\BankingAppDbContext.cs",
+              "RelativeDocumentMoniker": "BankingNew\\Data\\BankingAppDbContext.cs",
+              "ToolTip": "C:\\Users\\rahul.prasad\\source\\repos\\BankingNew\\BankingNew\\Data\\BankingAppDbContext.cs",
+              "RelativeToolTip": "BankingNew\\Data\\BankingAppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:00:41.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\rahul.prasad\\source\\repos\\BankingNew\\BankingNew\\models\\Account.cs",
+              "RelativeDocumentMoniker": "BankingNew\\models\\Account.cs",
+              "ToolTip": "C:\\Users\\rahul.prasad\\source\\repos\\BankingNew\\BankingNew\\models\\Account.cs",
+              "RelativeToolTip": "BankingNew\\models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T10:56:30.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\rahul.prasad\\source\\repos\\BankingNew\\BankingNew\\models\\Address.cs",
+              "RelativeDocumentMoniker": "BankingNew\\models\\Address.cs",
+              "ToolTip": "C:\\Users\\rahul.prasad\\source\\repos\\BankingNew\\BankingNew\\models\\Address.cs",
+              "RelativeToolTip": "BankingNew\\models\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T10:56:08.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rahul.prasad\\source\\repos\\BankingNew\\BankingNew\\Program.cs",
+              "RelativeDocumentMoniker": "BankingNew\\Program.cs",
+              "ToolTip": "C:\\Users\\rahul.prasad\\source\\repos\\BankingNew\\BankingNew\\Program.cs",
+              "RelativeToolTip": "BankingNew\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T10:47:47.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251028130739_test.cs",
+              "DocumentMoniker": "C:\\Users\\rahul.prasad\\source\\repos\\BankingNew\\BankingNew\\Migrations\\20251028130739_test.cs",
+              "RelativeDocumentMoniker": "BankingNew\\Migrations\\20251028130739_test.cs",
+              "ToolTip": "C:\\Users\\rahul.prasad\\source\\repos\\BankingNew\\BankingNew\\Migrations\\20251028130739_test.cs",
+              "RelativeToolTip": "BankingNew\\Migrations\\20251028130739_test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T13:07:39.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\rahul.prasad\\source\\repos\\BankingNew\\BankingNew\\models\\Customer.cs",
+              "RelativeDocumentMoniker": "BankingNew\\models\\Customer.cs",
+              "ToolTip": "C:\\Users\\rahul.prasad\\source\\repos\\BankingNew\\BankingNew\\models\\Customer.cs",
+              "RelativeToolTip": "BankingNew\\models\\Customer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T10:55:23.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20251028125115_relations.cs",
+              "DocumentMoniker": "C:\\Users\\rahul.prasad\\source\\repos\\BankingNew\\BankingNew\\Migrations\\20251028125115_relations.cs",
+              "RelativeDocumentMoniker": "BankingNew\\Migrations\\20251028125115_relations.cs",
+              "ToolTip": "C:\\Users\\rahul.prasad\\source\\repos\\BankingNew\\BankingNew\\Migrations\\20251028125115_relations.cs",
+              "RelativeToolTip": "BankingNew\\Migrations\\20251028125115_relations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T12:51:16.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20251028111541_initial.cs",
+              "DocumentMoniker": "C:\\Users\\rahul.prasad\\source\\repos\\BankingNew\\BankingNew\\Migrations\\20251028111541_initial.cs",
+              "RelativeDocumentMoniker": "BankingNew\\Migrations\\20251028111541_initial.cs",
+              "ToolTip": "C:\\Users\\rahul.prasad\\source\\repos\\BankingNew\\BankingNew\\Migrations\\20251028111541_initial.cs",
+              "RelativeToolTip": "BankingNew\\Migrations\\20251028111541_initial.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:15:41.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BankingNew.csproj",
+              "DocumentMoniker": "C:\\Users\\rahul.prasad\\source\\repos\\BankingNew\\BankingNew\\BankingNew.csproj",
+              "RelativeDocumentMoniker": "BankingNew\\BankingNew.csproj",
+              "ToolTip": "C:\\Users\\rahul.prasad\\source\\repos\\BankingNew\\BankingNew\\BankingNew.csproj",
+              "RelativeToolTip": "BankingNew\\BankingNew.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-28T11:00:20.109Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
