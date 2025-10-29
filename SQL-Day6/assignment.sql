@@ -105,7 +105,7 @@
 -> select value from string_split('apple,banana,cherry', ',');
 
 36) From a 'Skills' table with a 'SkillList' column containing comma-separated skills, write a query to create a row for each individual skill.
--> 
+-> SELECT Id, TRIM(value) AS Skill FROM Skills CROSS APPLY STRING_SPLIT(SkillList, ',');
 
 37) Write a query to display the current date and time.
 -> select getdate();
@@ -141,7 +141,8 @@
 -> select MONTH('2023-09-15');
 
 48) From a 'Sales' table, write a query to group total sales by the quarter of the sale date.
--> 
+-> SELECT YEAR(SaleDate) AS SaleYear, DATEPART(QUARTER, SaleDate) AS SaleQuarter, SUM(Amount) AS TotalSales FROM Sales GROUP BY 
+    YEAR(SaleDate), DATEPART(QUARTER, SaleDate) ORDER BY SaleYear, SaleQuarter;
 
 49) Extract the year from the current date.
 -> select year(GETDATE());
