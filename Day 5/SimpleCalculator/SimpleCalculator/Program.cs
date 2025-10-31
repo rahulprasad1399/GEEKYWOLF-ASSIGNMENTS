@@ -40,7 +40,7 @@ namespace SimpleCalculator
 
             } catch (DivideByZeroException divideByZeroException)
             {
-                Console.WriteLine("You Cannot Divide a Number By Zero, Please Try Another Number");
+                Console.WriteLine("You cannot divide a number by zero....");
                 Console.WriteLine(divideByZeroException.Message);
             } catch (FormatException formatException)
             {
