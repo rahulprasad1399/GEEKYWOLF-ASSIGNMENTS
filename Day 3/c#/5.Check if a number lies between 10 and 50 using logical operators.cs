@@ -17,7 +17,7 @@ namespace Day3
 
         public bool Checking(int number)
         {
-            return number >= 0 && number <= 50;
+            return number >= 1 && number <= 50;
         }
     }
 }

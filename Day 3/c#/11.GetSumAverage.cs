@@ -21,7 +21,7 @@ namespace Day3
         public void GetSumAndAverage(int a, int b, out int sum, out double avg)
         {
             sum = a + b;
-            avg = (a + b) / 2;
+            avg = double(a + b) / 2;
         }
     }
 }

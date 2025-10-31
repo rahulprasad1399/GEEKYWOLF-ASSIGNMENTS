@@ -21,6 +21,7 @@ namespace Day3
                 Console.WriteLine("Entered number is invalid");
             }
 
+            Console.WriteLine("Enter the second Number")
             string numberString2 = Console.ReadLine();
             bool isValidNumber2 = int.TryParse(numberString2, out int number2);
             if (!isValidNumber2)

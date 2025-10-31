@@ -36,7 +36,7 @@ namespace Day3
 
         public void AddDeposit(int balance)
         {
-            Balance = Balance + balance;
+            Balance += balance;
         }
 
         public void Display()

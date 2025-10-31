@@ -12,7 +12,7 @@ namespace Day3
         public double Salary { get; set; }
         static void Main(string[] args)
         {
-            Employee emp1 = new Employee("Rahul", 12000.00);
+            Employee emp1 = new("Rahul", 12000.00);
         }
 
         public Employee(string name)

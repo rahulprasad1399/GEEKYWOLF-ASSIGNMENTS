@@ -27,7 +27,7 @@ namespace Day3
         }
         public void Display()
         {
-            Console.WriteLine("Name : " + Name + "\nAge : " + Age);
+            Console.WriteLine($"Name : {Name} Age : {Age}");
         }
     }
 }

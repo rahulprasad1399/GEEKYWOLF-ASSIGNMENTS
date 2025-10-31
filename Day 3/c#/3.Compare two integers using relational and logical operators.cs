@@ -16,7 +16,7 @@ namespace Day3
             Console.WriteLine(a == b);
             Console.WriteLine(a != b);
             Console.WriteLine(a < b);
-            Console.WriteLine(a < b);
+            Console.WriteLine(a > b);
             Console.WriteLine(a <= b);
             Console.WriteLine(a >= b);
 

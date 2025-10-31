@@ -15,12 +15,14 @@ namespace ArithmeticOperations
             int sum = num1 + num2;
             int sub = num1 - num2;
             int mul = num1 * num2;
-            int div = num1 / num2;
+            double div = double(num1) / num2;
+            int mod = num1 % num2;
 
             Console.WriteLine("After Performing arithmetic operation : " + sum);
             Console.WriteLine("After Performing subtraction operation : " + sub);
             Console.WriteLine("After Performing multiplication operation : " + mul);
             Console.WriteLine("After Performing Division Operation :" + div);
+            Console.WriteLine("After Performing Modulo Operation :" + mod);
         }
     }
 }
