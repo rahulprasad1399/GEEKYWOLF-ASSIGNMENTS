@@ -1,0 +1,14 @@
+C:\Users\rahul.prasad\source\repos\Multi_Project\Multi_Project\bin\Debug\net8.0\Multi_Project.exe
+C:\Users\rahul.prasad\source\repos\Multi_Project\Multi_Project\bin\Debug\net8.0\Multi_Project.deps.json
+C:\Users\rahul.prasad\source\repos\Multi_Project\Multi_Project\bin\Debug\net8.0\Multi_Project.runtimeconfig.json
+C:\Users\rahul.prasad\source\repos\Multi_Project\Multi_Project\bin\Debug\net8.0\Multi_Project.dll
+C:\Users\rahul.prasad\source\repos\Multi_Project\Multi_Project\bin\Debug\net8.0\Multi_Project.pdb
+C:\Users\rahul.prasad\source\repos\Multi_Project\Multi_Project\obj\Debug\net8.0\Multi_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul.prasad\source\repos\Multi_Project\Multi_Project\obj\Debug\net8.0\Multi_Project.AssemblyInfoInputs.cache
+C:\Users\rahul.prasad\source\repos\Multi_Project\Multi_Project\obj\Debug\net8.0\Multi_Project.AssemblyInfo.cs
+C:\Users\rahul.prasad\source\repos\Multi_Project\Multi_Project\obj\Debug\net8.0\Multi_Project.csproj.CoreCompileInputs.cache
+C:\Users\rahul.prasad\source\repos\Multi_Project\Multi_Project\obj\Debug\net8.0\Multi_Project.dll
+C:\Users\rahul.prasad\source\repos\Multi_Project\Multi_Project\obj\Debug\net8.0\refint\Multi_Project.dll
+C:\Users\rahul.prasad\source\repos\Multi_Project\Multi_Project\obj\Debug\net8.0\Multi_Project.pdb
+C:\Users\rahul.prasad\source\repos\Multi_Project\Multi_Project\obj\Debug\net8.0\Multi_Project.genruntimeconfig.cache
+C:\Users\rahul.prasad\source\repos\Multi_Project\Multi_Project\obj\Debug\net8.0\ref\Multi_Project.dll

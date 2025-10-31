@@ -1,0 +1,14 @@
+C:\Users\rahul.prasad\source\repos\RefactorName\RefactorName\bin\Debug\net8.0\RefactorName.exe
+C:\Users\rahul.prasad\source\repos\RefactorName\RefactorName\bin\Debug\net8.0\RefactorName.deps.json
+C:\Users\rahul.prasad\source\repos\RefactorName\RefactorName\bin\Debug\net8.0\RefactorName.runtimeconfig.json
+C:\Users\rahul.prasad\source\repos\RefactorName\RefactorName\bin\Debug\net8.0\RefactorName.dll
+C:\Users\rahul.prasad\source\repos\RefactorName\RefactorName\bin\Debug\net8.0\RefactorName.pdb
+C:\Users\rahul.prasad\source\repos\RefactorName\RefactorName\obj\Debug\net8.0\RefactorName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul.prasad\source\repos\RefactorName\RefactorName\obj\Debug\net8.0\RefactorName.AssemblyInfoInputs.cache
+C:\Users\rahul.prasad\source\repos\RefactorName\RefactorName\obj\Debug\net8.0\RefactorName.AssemblyInfo.cs
+C:\Users\rahul.prasad\source\repos\RefactorName\RefactorName\obj\Debug\net8.0\RefactorName.csproj.CoreCompileInputs.cache
+C:\Users\rahul.prasad\source\repos\RefactorName\RefactorName\obj\Debug\net8.0\RefactorName.dll
+C:\Users\rahul.prasad\source\repos\RefactorName\RefactorName\obj\Debug\net8.0\refint\RefactorName.dll
+C:\Users\rahul.prasad\source\repos\RefactorName\RefactorName\obj\Debug\net8.0\RefactorName.pdb
+C:\Users\rahul.prasad\source\repos\RefactorName\RefactorName\obj\Debug\net8.0\RefactorName.genruntimeconfig.cache
+C:\Users\rahul.prasad\source\repos\RefactorName\RefactorName\obj\Debug\net8.0\ref\RefactorName.dll
