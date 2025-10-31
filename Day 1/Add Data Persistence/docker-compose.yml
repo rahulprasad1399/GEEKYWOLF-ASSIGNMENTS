@@ -10,7 +10,9 @@ services:
     ports:
       - "1500:1433"
     volumes:
-      - sqldata:/var/opt/mssql
+      - type: 'bind'
+        target: '/var/opt/mssql/data'
+        source: './docker/sqldata/data'
 
-volumes:
-  sqldata:
+# volumes:
+#   sqldata:
