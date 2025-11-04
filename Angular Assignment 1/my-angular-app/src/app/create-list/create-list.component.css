@@ -1,0 +1,19 @@
+.odd{
+    background-color: grey;
+    color: black;
+    max-width: 10%;
+    text-align: center;
+
+}
+.even{
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 10%;
+}
+ul{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    list-style-type: none;
+}
