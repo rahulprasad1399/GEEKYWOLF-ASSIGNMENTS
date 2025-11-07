@@ -1,0 +1,83 @@
+<!-- PARENT TO CHILD COMMUNICATION -->
+<app-rooms [hotel]="hotel()" (roomSelected)="onSelectedRoom($event)" />
+
+
+<app-navbar />
+@if (hotel() !== null) {
+<div class="hotelDetail-container">
+  <div
+    class="hotelDetail-bg"
+    [ngStyle]="{
+      'background-image': 'url(' + hotel()?.Image + ')'
+    }"
+  >
+    <div class="overlay"></div>
+
+    <div class="hoteDetail-textContainer">
+      <div class="hoteDetail-subContainer">
+        <h1 class="hoteDetail-hotelName">{{ hotel()?.Name }}</h1>
+        <p class="hoteDetail-phoneNumber">📞 {{ hotel()?.PhoneNumber }}</p>
+        <p class="hoteDetail-address">{{ hotel()?.Address }}</p>
+        <p class="hoteDetail-city">
+          {{ hotel()?.City }}, {{ hotel()?.Country }}
+        </p>
+        <div class="hoteDetail-rooms">
+          <button>View Rooms</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Rooms -->
+<div class="hotelDetailRoom-section">
+  <h1 class="hotelDetailRoom-heading">Rooms</h1>
+  <div class="hotelDetailRoom-container">
+    @for (room of hotel()?.Rooms; track room.Id) {
+    <div class="hotelDetailRoom">
+      <img [src]="room.Image" alt="" class="hotelDetailRoom-image" />
+      <div class="hotelDetailRoom-status">
+        <span>
+          {{ room.Status }}
+        </span>
+      </div>
+      <div class="text-container">
+        <p class="hotelDetailRoom-name">Room No : {{ room.RoomNumber }}</p>
+        <div class="hotelDetailRoom-phone">
+          <p class="hotelDetailRoom-phoneicon">💰</p>
+          <p class="hotelDetailRoom-phonenumber">{{ room.PricePerNight }}</p>
+        </div>
+        <div class="hotelDetailRoom-buttonContainer">
+          <button class="hotelDetailRoom-button">Book Now</button>
+        </div>
+      </div>
+    </div>
+    }
+  </div>
+  <p class="hotelDetailRoom-viewAllRooms" [routerLink]="['rooms']" routerLinkActive="active">View All Rooms</p>
+</div>
+
+
+
+<!-- Employee -->  
+<div>
+  <div>
+    <h1>Employees</h1>
+    <div>
+      <p [routerLink]="['employees']">View All Employees</p>
+    </div>
+  </div>
+</div>
+<div>
+  <div>
+    <h1>Reviews</h1>
+    <div>
+      <p [routerLink]="['reviews']">View All Reviews</p>
+    </div>
+  </div>
+</div>
+
+<div>
+  <router-outlet></router-outlet>
+</div>
+} 
