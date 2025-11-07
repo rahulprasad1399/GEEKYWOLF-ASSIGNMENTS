@@ -1,0 +1,38 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem;
+    align-items: center;
+
+    img{
+        width: 10rem;
+        cursor: pointer;
+    }
+
+    ul{
+        display: flex;
+        gap: 3rem;
+        width: 30%;
+
+        li{
+            
+            list-style: none;
+            letter-spacing: 0.05rem;
+            font-weight: 500;
+            cursor: pointer;
+            color: inherit;
+
+            &:hover{
+                scale: 1.02;
+            }
+        }
+    }
+
+    &.white{
+        color: white;
+    }
+
+    &.black{
+        color: black;
+    }
+}

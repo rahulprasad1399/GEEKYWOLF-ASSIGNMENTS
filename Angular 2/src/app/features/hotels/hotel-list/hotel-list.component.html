@@ -1,0 +1,21 @@
+<app-navbar />
+<div class="hotel-section">
+  <div class="hotel-container">
+    @for (hotel of hotels(); track hotel.Id) {
+    <div class="hotel">
+      <img [src]="hotel.Image" alt="" class="hotel-image" />
+      <div class="text-container">
+        <p class="hotel-name">{{ hotel.Name }}</p>
+        <div class="hotel-phone">
+          <p class="hotel-phoneicon">📞</p>
+          <p class="hotel-phonenumber">{{ hotel.PhoneNumber }}</p>
+        </div>
+        <p class="hotel-city">{{ hotel.City }}, {{ hotel.Country }}</p>
+        <div class="button-contaner">
+          <button class="hotel-viewdetails" (click)="onViewDetail(hotel.Id)">View Details</button>
+        </div>
+      </div>
+    </div>
+    }
+  </div>
+</div>
